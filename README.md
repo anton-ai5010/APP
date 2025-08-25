@@ -72,3 +72,4 @@ flutter run
 ## Лицензия
 
 Proprietary - Invasion Universe © 2025# APP
+# APP
